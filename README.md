@@ -1,5 +1,5 @@
 # llm_evals
-This repository contains a collection of Colab notebooks used to evaluate various Large Language Models (LLMs) on the MMLU (Massive Multitask Language Understanding) benchmark.
+This repository contains a collection of Colab notebooks used to evaluate In Context Learning with various Large Language Models (LLMs) on the MMLU (Massive Multitask Language Understanding) benchmark.
 
 These evaluations leverage the EleutherAI lm-evaluation-harness library.
 
