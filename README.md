@@ -1,5 +1,8 @@
 # llm_evals
 This repository contains a collection of Colab notebooks used to evaluate various Large Language Models (LLMs) on the MMLU (Massive Multitask Language Understanding) benchmark.
+
+These evaluations leverage the EleutherAI lm-evaluation-harness library.
+
 <img width="1362" height="778" alt="image" src="https://github.com/user-attachments/assets/b796e71a-82e9-42fb-bfff-c9af44f0ddfb" />
 
 Notable Achievements
